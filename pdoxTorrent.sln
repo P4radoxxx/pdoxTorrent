@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pdoxTorrent", "pdoxTorrent\pdoxTorrent.vcxproj", "{3CC4C141-F6A6-4007-9005-BCBC24B2E388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC4C141-F6A6-4007-9005-BCBC24B2E388}.Debug|x64.ActiveCfg = Debug|x64
+		{3CC4C141-F6A6-4007-9005-BCBC24B2E388}.Debug|x64.Build.0 = Debug|x64
+		{3CC4C141-F6A6-4007-9005-BCBC24B2E388}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CC4C141-F6A6-4007-9005-BCBC24B2E388}.Debug|x86.Build.0 = Debug|Win32
+		{3CC4C141-F6A6-4007-9005-BCBC24B2E388}.Release|x64.ActiveCfg = Release|x64
+		{3CC4C141-F6A6-4007-9005-BCBC24B2E388}.Release|x64.Build.0 = Release|x64
+		{3CC4C141-F6A6-4007-9005-BCBC24B2E388}.Release|x86.ActiveCfg = Release|Win32
+		{3CC4C141-F6A6-4007-9005-BCBC24B2E388}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3272C702-5B3E-44C7-B51A-2B42A786A972}
+	EndGlobalSection
+EndGlobal
